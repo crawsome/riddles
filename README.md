@@ -7,12 +7,12 @@ The dataset isn't perfect and needs pruning, and needs more riddles. Help me by 
 ### What are Riddles? They're not Jokes
 * https://en.wikipedia.org/wiki/Riddle
 
-#### Riddles are Enigmas
+#### Riddles are **Enigmas**
 Problems in metaphorical or allegorical language that require ingenuity and careful thinking
 * YES to Logic, to a degree.
 * YES Philosophy
 
-#### Riddles are also Conduras
+#### Riddles are also **Conduras**
 Questions relying for their effects on punning in either the question or the answer
 * YES Puns
 * YES Wordplay
@@ -22,9 +22,9 @@ Questions relying for their effects on punning in either the question or the ans
 Technicalities go here. Weird off-case stuff. 
 * No integers or symbols, make your answers in words only. One. Two. Three. Plus, Minus. 
 
-### Riddles are NOT these, and should all be in their own datasets, and some better not used at all: 
+### Don't put these in the dataset: 
 * One-liners 
-* fun Facts / "did you know"
+* Fun Facts / "Did you know"
 * Life-pro-tips
 * Boomer humor / cliche / antihumor / cringe / racism / cruel / sexual or alluding to sexual humor
 * Riddles cannot be associated with each other or cross-refernce each other to be completed. 
@@ -34,7 +34,7 @@ Technicalities go here. Weird off-case stuff.
 * * *"Why did the waterfall circult never blow out under load? Because he made preparations to diode!"*
 
 # Policy 
-I didn't write these. These are from all around the internet. LMK if you find an unsavory or terrible riddle. 
+I didn't write these. These are from all around the internet. LMK if you find an unsavory or terrible riddles. 
 
 Please subnmit pull requests to add riddles. 
 
