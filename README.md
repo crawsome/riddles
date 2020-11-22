@@ -1,8 +1,8 @@
 # Riddles
-I love riddles. I couldn't find a good enough collection across the internet, so I made one in my [Python RPG](github.com/crawsome/pyRPG_mini). 
+I love riddles. I couldn't find a good enough collection across the internet, so I made one in my [Python RPG](github.com/crawsome/pyRPG_mini). Now, I'm offering this for free in hopes of it getting bigger and better. 
 
 ## Disclaimer:
-The dataset isn't perfect and needs pruning, and needs more riddles. I'm offering this for free in hopes of it getting bigger and better. 
+The dataset isn't perfect and needs pruning, and needs more riddles. Help me by submitting a pull request, or an issue!
 
 ### What are Riddles? They're not Jokes
 * https://en.wikipedia.org/wiki/Riddle
