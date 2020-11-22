@@ -17,6 +17,7 @@ Colin Burke
 * Text
 * sqlite3 database
 * TBA (As requested)
+* Some metadata for the riddles would be awesome. Riddle type. Answer Type. Difficulty rating. There's a lot of possibilities here. 
 
 ## What are Riddles? They're not Jokes
 * https://en.wikipedia.org/wiki/Riddle
