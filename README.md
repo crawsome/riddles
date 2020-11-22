@@ -36,7 +36,7 @@ Technicalities go here. Weird off-case stuff.
 # Policy 
 I didn't write these. These are from all around the internet. LMK if you find an unsavory or terrible riddles. 
 
-Please subnmit pull requests to add riddles. 
+Please submit pull requests to add riddles. 
 
 TODO: Create a script that generates all files in repo:
   * CSV
