@@ -9,30 +9,28 @@ The dataset isn't perfect and needs pruning, and needs more riddles. I'm offerin
 
 #### Riddles are Enigmas
 Problems in metaphorical or allegorical language that require ingenuity and careful thinking
-* Logic
-* Philosophy
+* YES to Logic, to a degree.
+* YES Philosophy
 
 #### Riddles are also Conduras
 Questions relying for their effects on punning in either the question or the answer
-* Puns
-* Wordplay
-* Double-meanings, 
+* YES Puns
+* YES Wordplay
+* YES Double-meanings and synonyms
 
 ### Technicalities:
 Technicalities go here. Weird off-case stuff. 
-* Make your answers in words only. One. Two. Three. Plus, Minus. 
+* No integers or symbols, make your answers in words only. One. Two. Three. Plus, Minus. 
 
-### Riddles are NOT these: 
-* If it's not in the "Question", "Answer" format, it's not allowed. 
-* * No one-liners 
-* * No fun Facts / Historical events
-* * No Life-pro-tips
-* No integers or symbols
-* No Boomer humor / cliche / antihumor / cringe / racism
-* * "I hate getting old LOL"
-* * Why did the chicken cross the road?
-* No long riddles
-* I would argue against esoteric / domain knowledge jokes, they should belong in their own dataset IMHO. 
+### Riddles are NOT these, and should all be in their own datasets, and some better not used at all: 
+* One-liners 
+* fun Facts / "did you know"
+* Life-pro-tips
+* Boomer humor / cliche / antihumor / cringe / racism / cruel / sexual or alluding to sexual humor
+* Riddles cannot be associated with each other or cross-refernce each other to be completed. 
+* * *"I'm the answer to #31 and #56 in the pulural sense"*
+* No long riddles. [Nate the Snake](https://web.archive.org/web/20200329123356/https://natethesnake.com/) was a fun read, but that's not what this is for, lol. 
+* I would argue against esoteric and domain knowledge jokes, they should belong in their own dataset IMHO. 
 * * *"Why did the waterfall circult never blow out under load? Because he made preparations to diode!"*
 
 # Policy 
