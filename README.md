@@ -43,10 +43,11 @@ Technicalities go here. Weird off-case stuff.
 * Life-pro-tips
 * Boomer humor / cliche / antihumor / cringe / racism / cruel / sexual or alluding to sexual humor
 * Riddles cannot be associated with each other or cross-refernce each other to be completed. 
+* Super-easy riddles that don't require any thought. Ex. "I measure heat and I'm a god"
 * * *"I'm the answer to #31 and #56 in the pulural sense"*
 * No long riddles. [Nate the Snake](https://web.archive.org/web/20200329123356/https://natethesnake.com/) was a fun read, but that's not what this is for, lol. 
 * [No riddles that require a truth table to solve!](http://brainden.com/forum/topic/373-the-liar-the-truth-tellerand-the-random-answerer/)
-* I would argue against esoteric and domain knowledge jokes, they should belong in their own dataset IMHO. 
+* I would argue against esoteric and domain knowledge jokes, they should belong in their own dataset IMHO. Pop culture included. 
 * * *"Why did the waterfall circult never blow out under load? Because he made preparations to diode!"*
 
 
